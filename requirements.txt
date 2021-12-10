@@ -1,0 +1,7 @@
+regex==2021.11.10
+sendgrid==6.9.2
+python-dotenv==0.19.2
+twilio==7.3.2
+sendgrid==6.9.2
+asyncio==3.4.3
+

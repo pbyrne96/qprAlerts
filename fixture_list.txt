@@ -1,0 +1,91 @@
+07/08/2021 - 15:00 - Millwall (h)
+
+14/08/2021 - 15:00 - Hull City (a)
+
+18/08/2021 - 19:45 - Middlesbrough (a)
+
+21/08/2021 - 15:00 - Barnsley (h)
+
+28/08/2021 - 15:00 - Coventry City (h)
+
+11/09/2021 - 15:00 - Reading (a)
+
+14/09/2021 - 19:45 - A.F.C. Bournemouth (a)
+
+18/09/2021 - 15:00 - Bristol City (h)
+
+25/09/2021 - 15:00 - West Bromwich Albion (a)
+
+28/09/2021 - 19:45 - Birmingham City (h)
+
+02/10/2021 - 15:00 - Preston North End (h)
+
+16/10/2021 - 15:00 - Fulham (a)
+
+19/10/2021 - 19:45 - Blackburn Rovers (h)
+
+23/10/2021 - 15:00 - Peterborough United (a)
+
+30/10/2021 - 15:00 - Nottingham Forest (h)
+
+03/11/2021 - 19:45 - Cardiff City (a)
+
+06/11/2021 - 15:00 - Blackpool (a)
+
+20/11/2021 - 15:00 - Luton Town (h)
+
+24/11/2021 - 19:45 - Huddersfield Town (h)
+
+27/11/2021 - 15:00 - Derby County (a)
+
+04/12/2021 - 15:00 - Stoke City (h)
+
+11/12/2021 - 15:00 - Sheffield United (a)
+
+18/12/2021 - 15:00 - Swansea City (h)
+
+26/12/2021 - 15:00 - A.F.C. Bournemouth (h)
+
+29/12/2021 - 19:45 - Bristol City (a)
+
+01/01/2022 - 15:00 - Birmingham City (a)
+
+15/01/2022 - 15:00 - West Bromwich Albion (h)
+
+22/01/2022 - 15:00 - Coventry City (a)
+
+29/01/2022 - 15:00 - Reading (h)
+
+05/02/2022 - 15:00 - Millwall (a)
+
+09/02/2022 - 19:45 - Middlesbrough (h)
+
+12/02/2022 - 15:00 - Barnsley (a)
+
+19/02/2022 - 15:00 - Hull City (h)
+
+23/02/2022 - 19:45 - Blackpool (h)
+
+26/02/2022 - 15:00 - Blackburn Rovers (a)
+
+05/03/2022 - 15:00 - Cardiff City (h)
+
+12/03/2022 - 15:00 - Luton Town (a)
+
+15/03/2022 - 19:45 - Nottingham Forest (a)
+
+19/03/2022 - 15:00 - Peterborough United (h)
+
+02/04/2022 - 15:00 - Fulham (h)
+
+09/04/2022 - 15:00 - Preston North End (a)
+
+15/04/2022 - 15:00 - Huddersfield Town (a)
+
+18/04/2022 - 15:00 - Derby County (h)
+
+23/04/2022 - 15:00 - Stoke City (a)
+
+30/04/2022 - 15:00 - Sheffield United (h)
+
+07/05/2022 - 12:30 - Swansea City (a)
